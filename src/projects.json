@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Twitter Website Widget",
+        "link": "http://twitter.priteshwadhia.com",
+        "description": "This is a web app that uses PHP to connect to the Twitter API and get a list of a users' latest tweets. The feed is returned in JSON format and enriched accordingly to deal with links, images, hashtags, etc. accordingly. Curl is used to retrieve the feed as well as the OAuth2 access token. The page is refreshed periodically using jQuery and AJAX. Functionality is also provided using jQuery to change the font size and background color."
+    },
+    {
+        "name": "Shopping Cart",
+        "link": "http://shopping-cart.priteshwadhia.com",
+        "description": "This is a MVC shopping developed in PHP, HTML and CSS. The cart is stored in session. The Controller handles user input. The View renders the output using template files."
+    },
+    {
+        "name": "Pritesh Wadhia's Web Portfolio",
+        "link": "",
+        "description": "This Website was built to showcase my skills and example projects. It was built in React. The header, skills and projects sections are seperate React Components. The Project Component pulls a list of projects from a JSON feed."
+    }
+]
