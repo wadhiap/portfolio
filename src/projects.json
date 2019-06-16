@@ -10,6 +10,11 @@
         "description": "This is a MVC shopping developed in PHP, HTML and CSS. The cart is stored in session. The Controller handles user input. The View renders the output using template files."
     },
     {
+        "name": "Laravel MVC Calculator",
+        "link": "http://laravel-calculator.priteshwadhia.com",
+        "description": "A calculator built using the Laravel MVC Framework. Best practices where used (SOLID/DRY/PSR) to ensure the code is easy to maintain and scalable. The system takes two inputs and an operator, then returns the results. Form validation errors are displayed to the user as needed. "
+    },
+    {
         "name": "Pritesh Wadhia's Web Portfolio",
         "link": "",
         "description": "This Website was built to showcase my skills and example projects. It was built in React. The header, skills and projects sections are seperate React Components. The Project Component pulls a list of projects from a JSON feed."

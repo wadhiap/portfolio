@@ -70,6 +70,7 @@ h1, h2, #header-strapline, #contact-wrapper, .project-wrapper h3, ul, #project-m
 #contact-wrapper a
 {
 	font-size:2em;
+	display:block;
 }
 
 .project-wrapper
